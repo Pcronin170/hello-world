@@ -9,6 +9,6 @@ I'm testing this new git thing to see how it works
 ##Heading2
 ###Heading3
 
-*first item
-*second item
-*third item
+* first item
+* second item
+* third item
